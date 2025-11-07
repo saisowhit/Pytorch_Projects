@@ -1,0 +1,7 @@
+
+torchvision
+torch
+scikit-learn
+librosa
+torchsummary
+scikit-image
